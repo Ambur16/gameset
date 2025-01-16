@@ -1,0 +1,2 @@
+# GameSet
+Proyecto en nextJS
